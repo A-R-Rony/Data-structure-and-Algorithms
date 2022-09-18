@@ -7,7 +7,7 @@
 #### Practice problem 
 [Problem-01 : ](https://codeforces.com/contest/25/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/25/submission/172538064)
 
-[Problem-02 : ](https://www.spoj.com/problems/FRNDCIRC/) [Solution by ar_rony1](https://ideone.com/VvUA3e)
+[Problem-02 : ](https://www.spoj.com/problems/FRNDCIRC/) [Solution by ar_rony1](https://ideone.com/lX3fRf)
 ## Dynamic Programming
 0/1 knacpsack 
 
