@@ -1,7 +1,7 @@
 # Data-structure-and-Algorithms
 
 ## Data Structure
-### DSU
+>### DSU
 
 [Basic DSU Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic)
 >#### Practice problem 
