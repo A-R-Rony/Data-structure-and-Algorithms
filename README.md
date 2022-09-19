@@ -46,4 +46,26 @@
   </p>
   </details>
   
+  >## Graph
+<details><summary>BFS</summary>
+<p>
+  <details><summary>BFS Basic Code</summary>
+<p>
+
+  [BFS Basic Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic)
+</p>
+</details>
+  
+   <details><summary>BFS Practice Problems</summary>
+<p>
+
+ [Problem-01 : ](https://codeforces.com/contest/25/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/25/submission/172538064)
+
+ [Problem-02 : ](https://www.spoj.com/problems/FRNDCIRC/) [Solution by ar_rony1](https://ideone.com/lX3fRf)
+  </p>
+  </details>
+  
+  </p>
+  </details>
+  
 
