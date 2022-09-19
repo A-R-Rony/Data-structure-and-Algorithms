@@ -52,7 +52,7 @@
   <details><summary>BFS Basic Code</summary>
 <p>
 
-  [BFS Basic Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic)
+  [BFS Basic Code](https://github.com/A-R-Rony/Graph-theory/blob/main/BFS.cpp)
 </p>
 </details>
   
