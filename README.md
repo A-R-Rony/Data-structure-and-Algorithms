@@ -68,4 +68,25 @@
   </p>
   </details>
   
+  <details><summary>DFS</summary>
+<p>
+  <details><summary>DFS Basic Code</summary>
+<p>
+
+  [DFS Basic Code](https://github.com/A-R-Rony/Graph-theory/blob/main/DFS.cpp)
+</p>
+</details>
+  
+   <details><summary>DFS Practice Problems</summary>
+<p>
+
+ [Problem-01 : ](https://codeforces.com/contest/25/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/25/submission/172538064)
+
+ [Problem-02 : ](https://www.spoj.com/problems/FRNDCIRC/) [Solution by ar_rony1](https://ideone.com/lX3fRf)
+  </p>
+  </details>
+  
+  </p>
+  </details>
+  
 
