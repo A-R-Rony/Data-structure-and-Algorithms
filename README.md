@@ -88,4 +88,17 @@
   </p>
   </details>
   
+  >## Number Theory
+
+  
+   <details><summary>Number Theory Practice Problems</summary>
+<p>
+
+ [Problem-01 : ](https://lightoj.com/problem/pairs-forming-lcm) [Solution by ar_rony1](https://ideone.com/qjiQqL)
+
+  </p>
+  </details>
+  
+  
+  
 
