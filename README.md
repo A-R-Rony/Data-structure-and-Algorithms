@@ -85,6 +85,8 @@
  [Problem-02 : ](https://codeforces.com/contest/598/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/598/submission/173363072)
  
  [Problem-03 : ](https://www.spoj.com/problems/FOXLINGS/) [Solution by ar_rony1](https://ideone.com/6vpsNI)
+  
+ [Problem-04 : ](https://www.spoj.com/problems/IITKWPCI/) [Solution by ar_rony1](https://ideone.com/iovpUi)
 
   </p>
   </details>
