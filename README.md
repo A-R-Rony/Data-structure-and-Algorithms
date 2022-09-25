@@ -101,6 +101,17 @@
   </p>
   </details>
   
+   >## Binary Search
+
+  
+   <details><summary>Binary Search Practice Problems</summary>
+<p>
+
+ [Problem-01 : ](https://codeforces.com/contest/923/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/923/submission/173387018)
+
+  </p>
+  </details>
+  
   
   
 
