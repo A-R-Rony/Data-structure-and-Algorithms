@@ -83,6 +83,8 @@
  [Problem-01 : ](https://codeforces.com/contest/659/problem/E) [Solution by ar_rony1](https://codeforces.com/contest/659/submission/172912579)
  
  [Problem-02 : ](https://codeforces.com/contest/598/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/598/submission/173363072)
+ 
+ [Problem-03 : ](https://www.spoj.com/problems/FOXLINGS/) [Solution by ar_rony1](https://ideone.com/6vpsNI)
 
   </p>
   </details>
