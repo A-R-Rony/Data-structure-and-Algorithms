@@ -101,6 +101,8 @@
  [Problem-01 : ](https://lightoj.com/problem/pairs-forming-lcm) [Solution by ar_rony1](https://ideone.com/qjiQqL)
  
  [Problem-02 : ](https://cses.fi/problemset/task/1716/) [Solution by ar_rony1](https://cses.fi/paste/06074e54d99c3bb248646e/)
+  
+ [Problem-03 : ](https://cses.fi/problemset/task/1717/) [Solution by ar_rony1](https://cses.fi/paste/98a2da5e2b4745334865d8/)
 
   </p>
   </details>
