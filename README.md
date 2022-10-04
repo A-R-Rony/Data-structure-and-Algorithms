@@ -82,6 +82,8 @@
  
  [Problem-06 : ](https://codeforces.com/contest/1735/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1735/submission/174437810)
  
+ [Problem-07 : ](https://codeforces.com/contest/723/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/723/submission/174599835)
+ 
  
 
   </p>
