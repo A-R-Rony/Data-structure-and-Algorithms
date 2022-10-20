@@ -51,7 +51,9 @@
    <details><summary>BFS Practice Problems</summary>
 <p>
 
-  [Problem-01 : ](https://codeforces.com/problemset/problem/1133/F1) [Solution by ar_rony1](https://codeforces.com/contest/1133/submission/174969128)     
+  [Problem-01 : ](https://codeforces.com/problemset/problem/1133/F1) [Solution by ar_rony1](https://codeforces.com/contest/1133/submission/174969128)  
+  
+  [Problem-02 : ](https://codeforces.com/contest/986/problem/A) [Solution by ar_rony1](https://codeforces.com/contest/986/submission/177106641)
  
   </p>
   </details>
