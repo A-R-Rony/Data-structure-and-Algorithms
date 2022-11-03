@@ -144,6 +144,8 @@
  [Problem-03 : ](https://codeforces.com/contest/1735/problem/A) [Solution by ar_rony1](https://codeforces.com/contest/1735/submission/174430718)
  
  [Problem-04 : ](https://codeforces.com/contest/527/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/527/submission/176418997)
+ 
+ [Problem-05 : ](https://codeforces.com/contest/817/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/817/submission/179016676)
 
   </p>
   </details>
