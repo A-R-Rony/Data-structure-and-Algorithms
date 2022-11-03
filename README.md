@@ -127,6 +127,8 @@
  [Problem-05 : ](https://atcoder.jp/contests/abc136/tasks/abc136_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc136/submissions/35644978)
  
  [Problem-06 : ](https://codeforces.com/contest/1183/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/1183/submission/176253285)
+ 
+ [Problem-07 : ](https://codeforces.com/contest/112/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/112/submission/179081136)
 
   </p>
   </details>
