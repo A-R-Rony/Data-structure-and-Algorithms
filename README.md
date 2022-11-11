@@ -50,6 +50,14 @@
   </p>
   </details>
   
+  <details><summary>Digit Dp practice problems</summary>
+<p>
+
+  [Problem-01 : ](https://lightoj.com/problem/investigation) [Solution by ar_rony1](https://lightoj.com/submission/2530133)  
+  
+  </p>
+  </details>
+  
   
   >## Graph
 <details><summary>BFS</summary>
