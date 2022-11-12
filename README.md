@@ -54,6 +54,7 @@
    <details><summary>0/1 Knapsack Practice Problems</summary>
 <p>
 
+  [Problem-01 : ](https://codeforces.com/contest/118/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/118/submission/180596781) 
  
   </p>
   </details>
