@@ -24,6 +24,27 @@
 
 </p>
 </details>
+
+<details><summary>Segment Tree</summary>
+  <p>
+ <details><summary>Segment Tree Basic Code</summary>
+<p>
+
+  [Code](https://ideone.com/G0S2HO)
+</p>
+</details>
+
+  
+  <details><summary>Segment Tree Practice Problems</summary>
+<p>
+
+ [Problem-01 : ](https://codeforces.com/contest/339/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/339/submission/180560278)
+
+  </p>
+  </details>
+
+</p>
+</details>
  
 
 >## Dynamic Programming
