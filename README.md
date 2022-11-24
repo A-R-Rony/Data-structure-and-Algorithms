@@ -48,6 +48,15 @@
  
 
 >## Dynamic Programming
+
+<details><summary>Recursion Practice Problems</summary>
+<p>
+
+  [Problem-01 : ](https://codeforces.com/contest/768/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/768/submission/182381983) 
+ 
+  </p>
+  </details>
+  
 <details><summary>0/1 Knacpsack</summary>
 <p>
   
@@ -137,6 +146,8 @@
  [Problem-08 : ](https://codeforces.com/problemset/problem/939/D) [Solution by ar_rony1](https://ideone.com/m2HEJv)
  
  [Problem-09 : ](https://codeforces.com/contest/931/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/931/submission/176956335)
+  
+ [Problem-10 : ](https://codeforces.com/contest/979/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/979/submission/182205680)
  
  
 
@@ -184,6 +195,8 @@
  [Problem-04 : ](https://codeforces.com/contest/527/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/527/submission/176418997)
  
  [Problem-05 : ](https://codeforces.com/contest/817/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/817/submission/179016676)
+  
+ [Problem-06 : ](https://codeforces.com/contest/1359/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1359/submission/182338395)
 
   </p>
   </details>
