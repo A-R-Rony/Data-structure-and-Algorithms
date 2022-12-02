@@ -91,6 +91,28 @@
   
   
   >## Graph
+
+<details><summary>Strongly connected component</summary>
+<p>
+  <details><summary>Strongly connected component Basic Code</summary>
+<p>
+
+  [Strongly connected component](https://ideone.com/AsXmHK)
+</p>
+</details>
+  
+   <details><summary>Strongly connected component Practice Problems</summary>
+<p>
+
+  [Problem-01 : ](https://codeforces.com/contest/427/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/427/submission/183632211)  
+  
+  
+  </p>
+  </details>
+  
+  </p>
+  </details>
+  
 <details><summary>BFS</summary>
 <p>
   <details><summary>BFS Basic Code</summary>
