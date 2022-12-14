@@ -132,6 +132,10 @@
   [Problem-03 : ](https://codeforces.com/contest/954/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/954/submission/181379458)
   
   [Problem-04 : ](https://codeforces.com/contest/1365/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1365/submission/181383524)
+  
+  [Problem-05 : ](https://codeforces.com/contest/689/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/689/submission/185154489)
+  
+  
  
   </p>
   </details>
@@ -170,6 +174,8 @@
  [Problem-09 : ](https://codeforces.com/contest/931/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/931/submission/176956335)
   
  [Problem-10 : ](https://codeforces.com/contest/979/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/979/submission/182205680)
+  
+ [Problem-11 : ](https://codeforces.com/contest/1766/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1766/submission/185076097)
  
  
 
