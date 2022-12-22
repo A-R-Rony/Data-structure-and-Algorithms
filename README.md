@@ -64,6 +64,8 @@
 <p>
 
   [Problem-01 : ](https://codeforces.com/contest/118/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/118/submission/180596781) 
+  
+  [Problem-02 : ](https://codeforces.com/contest/1516/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1516/submission/186367116) 
  
   </p>
   </details>
