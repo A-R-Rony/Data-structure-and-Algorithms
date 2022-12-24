@@ -94,12 +94,12 @@
   
   >## Graph
 
-<details><summary>Strongly connected component</summary>
+<details><summary>Strongly connected component (KosaRaju's Algo)</summary>
 <p>
   <details><summary>Strongly connected component Basic Code</summary>
 <p>
 
-  [Strongly connected component](https://ideone.com/AsXmHK)
+  [Strongly connected component ](https://github.com/A-R-Rony/Graph-theory/blob/main/scc.cpp)
 </p>
 </details>
   
