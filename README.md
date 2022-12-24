@@ -187,6 +187,15 @@
   </p>
   </details>
   
+  <details><summary>Floyd-Warshall Algorithm Practice Problems</summary>
+<p>
+
+  [Problem-01 : ](https://codeforces.com/contest/295/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/295/submission/185465390)  
+
+ 
+  </p>
+  </details>
+  
   >## Number Theory
 
   
