@@ -178,6 +178,8 @@
  [Problem-10 : ](https://codeforces.com/contest/979/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/979/submission/182205680)
   
  [Problem-11 : ](https://codeforces.com/contest/1766/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1766/submission/185076097)
+  
+ [Problem-12 : ](https://codeforces.com/contest/1056/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1056/submission/186641065)
  
  
 
