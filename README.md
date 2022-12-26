@@ -180,6 +180,8 @@
  [Problem-11 : ](https://codeforces.com/contest/1766/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1766/submission/185076097)
   
  [Problem-12 : ](https://codeforces.com/contest/1056/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1056/submission/186641065)
+  
+ [Problem-13 : ](https://codeforces.com/contest/1384/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1384/submission/186736802)
  
  
 
