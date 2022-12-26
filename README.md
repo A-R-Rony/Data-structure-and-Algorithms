@@ -248,6 +248,8 @@
  [Problem-07 : ](https://codeforces.com/problemset/problem/1336/B) [Solution by ar_rony1](https://codeforces.com/contest/1336/submission/183734417)
   
  [Problem-08 : ](https://codeforces.com/contest/778/problem/A) [Solution by ar_rony1](https://codeforces.com/contest/778/submission/186420168)
+ 
+ [Problem-09 : ](https://codeforces.com/contest/1393/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1393/submission/186791081)
 
   </p>
   </details>
