@@ -183,6 +183,8 @@
   
  [Problem-13 : ](https://codeforces.com/contest/1384/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1384/submission/186736802)
  
+ [Problem-14 : ](https://codeforces.com/contest/1406/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1406/submission/187151535)
+ 
  
 
   </p>
