@@ -39,6 +39,9 @@
 <p>
 
  [Problem-01 : ](https://codeforces.com/contest/339/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/339/submission/180560278)
+  
+ [Problem-02 : ](https://cses.fi/problemset/task/1647/) [Solution by ar_rony1](https://cses.fi/paste/486e757d5d10a3dc4f6874/)
+
 
   </p>
   </details>
