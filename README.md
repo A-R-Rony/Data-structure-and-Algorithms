@@ -228,6 +228,8 @@
  [Problem-08 : ](https://codeforces.com/gym/101981) [**J**] [Solution by ar_rony1](https://codeforces.com/gym/101981/submission/186538223)
   
   [Problem-09 : ](https://codeforces.com/contest/546/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/546/submission/186603719)
+  
+  [Problem-10 : ](https://onlinejudge.org/external/115/11526.pdf) [Solution by ar_rony1](https://ideone.com/SGGR0Y)
 
   </p>
   </details>
