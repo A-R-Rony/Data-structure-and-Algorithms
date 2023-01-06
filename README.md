@@ -197,6 +197,8 @@
   
  [Problem-16 : ](https://codeforces.com/contest/1144/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/1144/submission/187687221)
  
+ [Problem-17 : ](https://codeforces.com/contest/1033/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1033/submission/188237432)
+ 
  
 
   </p>
