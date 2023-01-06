@@ -56,6 +56,8 @@
 <p>
 
   [Problem-01 : ](https://codeforces.com/contest/768/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/768/submission/182381983) 
+  
+  [Problem-02 : ](https://codeforces.com/contest/1033/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1033/submission/188237432)
  
   </p>
   </details>
@@ -197,7 +199,6 @@
   
  [Problem-16 : ](https://codeforces.com/contest/1144/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/1144/submission/187687221)
  
- [Problem-17 : ](https://codeforces.com/contest/1033/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1033/submission/188237432)
  
  
 
