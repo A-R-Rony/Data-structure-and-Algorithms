@@ -246,6 +246,9 @@
   [Problem-11 : ](https://codeforces.com/problemset/problem/385/C) [Solution by ar_rony1](https://codeforces.com/contest/385/submission/187620232)
   
   [Problem-12 : ](https://codeforces.com/contest/1228/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1228/submission/188670890)
+  
+  [Problem-13 : ](https://codeforces.com/contest/237/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/237/submission/189005625)
+
 
   </p>
   </details>
