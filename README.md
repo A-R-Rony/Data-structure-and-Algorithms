@@ -73,6 +73,8 @@
   [Problem-02 : ](https://codeforces.com/contest/1516/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1516/submission/186367116) 
 
   [Problem-03 : ](https://codeforces.com/contest/4/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/4/submission/187702698) 
+  
+  [Problem-04 : ](https://codeforces.com/contest/812/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/812/submission/189656369) 
 
  
   </p>
