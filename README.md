@@ -282,6 +282,17 @@
   </p>
   </details>
   
+   >## String
+
+  
+   <details><summary>LPS or Phi array Practice Problems</summary>
+<p>
+
+ [Problem-01 : ](https://codeforces.com/contest/1137/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1137/submission/191294574)
+
+  </p>
+  </details>
+  
   
   
 
