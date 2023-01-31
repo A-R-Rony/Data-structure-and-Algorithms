@@ -62,8 +62,7 @@
   </p>
   </details>
   
-<details><summary>0/1 Knacpsack</summary>
-<p>
+
   
    <details><summary>0/1 Knapsack Practice Problems</summary>
 <p>
@@ -75,10 +74,9 @@
   [Problem-03 : ](https://codeforces.com/contest/4/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/4/submission/187702698) 
   
   [Problem-04 : ](https://codeforces.com/contest/812/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/812/submission/189656369) 
+  
+  [Problem-05 : ](https://codeforces.com/contest/741/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/741/submission/191344009) 
 
- 
-  </p>
-  </details>
   
   </p>
   </details>
@@ -200,6 +198,8 @@
  [Problem-15 (Bipertite Graph) : ](https://www.spoj.com/problems/BUGLIFE/) [Solution by ar_rony1](https://ideone.com/6uuCht)
   
  [Problem-16 : ](https://codeforces.com/contest/1144/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/1144/submission/187687221)
+ 
+ [Problem-17 : ](https://codeforces.com/contest/741/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/741/submission/191344009) 
  
  
  
