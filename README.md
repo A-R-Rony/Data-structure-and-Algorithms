@@ -58,6 +58,8 @@
   [Problem-01 : ](https://codeforces.com/contest/768/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/768/submission/182381983) 
   
   [Problem-02 : ](https://codeforces.com/contest/1033/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1033/submission/188237432)
+  
+  [Problem-03 : ](https://codeforces.com/contest/1778/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1778/submission/191619110)
  
   </p>
   </details>
