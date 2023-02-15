@@ -204,6 +204,8 @@
  [Problem-16 : ](https://codeforces.com/contest/1144/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/1144/submission/187687221)
  
  [Problem-17 : ](https://codeforces.com/contest/741/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/741/submission/191344009) 
+  
+ [Problem-18 : ](https://codeforces.com/contest/616/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/616/submission/193679935) 
  
  
  
