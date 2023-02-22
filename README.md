@@ -265,6 +265,8 @@
   [Problem-14 : ](https://codeforces.com/problemset/problem/1312/D) [Solution by ar_rony1](https://codeforces.com/contest/1312/submission/192766293)
   
   [Problem-15 : ](https://codeforces.com/contest/569/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/569/submission/193763124)
+  
+  [Problem-16 : ](https://codeforces.com/contest/1462/problem/E2) [Solution by ar_rony1](https://codeforces.com/contest/1462/submission/194557731)
 
 
   </p>
