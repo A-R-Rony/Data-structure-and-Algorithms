@@ -80,6 +80,8 @@
   [Problem-05 : ](https://codeforces.com/contest/741/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/741/submission/191344009) 
   
   [Problem-06 : ](https://codeforces.com/contest/1625/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1625/submission/192700686) 
+  
+  [Problem-07 : ](https://codeforces.com/contest/225/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/225/submission/194632999) 
 
   
   </p>
