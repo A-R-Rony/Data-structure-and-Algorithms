@@ -329,6 +329,17 @@
   </p>
   </details>
   
+  >## combinatorics
+
+
+  <details><summary>Cominatorics Practice Problems</summary>
+<p>
+
+  [Problem-01 : ](https://codeforces.com/contest/1598/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1598/submission/199722939)  
+ 
+  </p>
+  </details>
+  
   
   
 
