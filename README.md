@@ -89,6 +89,9 @@
   [Problem-07 : ](https://codeforces.com/contest/225/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/225/submission/194632999)
   
   [Problem-08 : ](https://codeforces.com/contest/1681/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1681/submission/194881041) 
+  
+  [Problem-09 : ](https://codeforces.com/contest/1340/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1340/submission/200539663) 
+
 
   
   </p>
