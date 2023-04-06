@@ -226,6 +226,8 @@
  [Problem-21 : ](https://atcoder.jp/contests/abc292/tasks/abc292_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc292/submissions/39712018)
   
  [Problem-22 : ](https://codeforces.com/contest/1209/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1209/submission/199082427)
+  
+ [Problem-23 (cycle detect in directed graph): ](https://codeforces.com/contest/1411/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1411/submission/200961643)
 
 
  
