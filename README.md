@@ -319,6 +319,8 @@
  [Problem-08 : ](https://codeforces.com/contest/778/problem/A) [Solution by ar_rony1](https://codeforces.com/contest/778/submission/186420168)
  
  [Problem-09 : ](https://codeforces.com/contest/1393/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1393/submission/186791081)
+  
+  [Problem-10 : ](https://atcoder.jp/contests/arc154/tasks/arc154_b) [Solution by ar_rony1](https://atcoder.jp/contests/arc154/submissions/40444008)
 
   </p>
   </details>
