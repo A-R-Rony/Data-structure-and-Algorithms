@@ -229,7 +229,7 @@
   
  [Problem-23 (cycle detect in directed graph): ](https://codeforces.com/contest/1411/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1411/submission/200961643)
 
-
+ [Problem-24 : ](https://codeforces.com/contest/1093/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1093/submission/201452691)
  
  
  
