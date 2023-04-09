@@ -246,6 +246,8 @@
   [Problem-01 : ](https://codeforces.com/contest/295/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/295/submission/185465390)  
   
   [Problem-02 : ](https://atcoder.jp/contests/abc286/tasks/abc286_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc286/submissions/40446437)
+  
+  [Problem-03 : ](https://cses.fi/problemset/task/1672/) [Solution by ar_rony1](https://cses.fi/paste/6fb0d6643665f492593599/)
 
  
   </p>
