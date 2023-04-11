@@ -115,6 +115,17 @@
   </p>
   </details>
   
+   </p>
+  </details>
+  
+  <details><summary>Bitmask Dp practice problems</summary>
+<p>
+
+  [Problem-01 : ](https://lightoj.com/problem/marriage-ceremonies) [Solution by ar_rony1](https://lightoj.com/submission/2754932)  
+  
+  </p>
+  </details>
+  
   
   >## Graph
 
