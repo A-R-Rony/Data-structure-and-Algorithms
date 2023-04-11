@@ -242,6 +242,8 @@
 
  [Problem-24 : ](https://codeforces.com/contest/1093/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1093/submission/201452691)
  
+ [Problem-25 : ](https://atcoder.jp/contests/abc284/tasks/abc284_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc284/submissions/40536021)
+
  
  
 
