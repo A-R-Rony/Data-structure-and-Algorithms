@@ -342,6 +342,8 @@
   [Problem-11 : ](https://codeforces.com/contest/807/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/807/submission/201867347)
   
  [Problem-12 : ](https://codeforces.com/contest/738/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/738/submission/202096510)
+ 
+ [Problem-13 : ](https://codeforces.com/contest/287/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/287/submission/202337130)
 
   </p>
   </details>
