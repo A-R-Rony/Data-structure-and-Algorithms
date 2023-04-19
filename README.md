@@ -91,6 +91,8 @@
   [Problem-08 : ](https://codeforces.com/contest/1681/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1681/submission/194881041) 
   
   [Problem-09 : ](https://codeforces.com/contest/1340/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1340/submission/200539663) 
+  
+  [Problem-10 : ](https://atcoder.jp/contests/abc281/tasks/abc281_d) [Solution by ar_rony1](https://atcoder.jp/contests/abc281/submissions/40748953) 
 
 
   
@@ -307,6 +309,8 @@
   [Problem-17 : ](https://codeforces.com/contest/1795/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1795/submission/195019951)
   
   [Problem-18 : ](https://atcoder.jp/contests/abc293/tasks/abc293_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc293/submissions/39756140)
+  
+  [Problem-19 : ](https://atcoder.jp/contests/abc280/tasks/abc280_d) [Solution by ar_rony1](https://atcoder.jp/contests/abc280/submissions/40774699)
 
 
 
