@@ -105,6 +105,8 @@
   [Problem-01 : ](https://leetcode.com/problems/decode-ways/) [Solution by ar_rony1](https://leetcode.com/submissions/detail/835211190/)  
   
   [Problem-02 : ](https://codeforces.com/contest/474/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/474/submission/178916246)
+  
+  [Problem-03 : ](https://codeforces.com/contest/711/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/711/submission/202781445)
  
   </p>
   </details>
