@@ -129,6 +129,8 @@
 
   [Problem-01 : ](https://lightoj.com/problem/marriage-ceremonies) [Solution by ar_rony1](https://lightoj.com/submission/2754932)  
   
+  [Problem-02 : ](https://codeforces.com/contest/1185/problem/G1) [Solution by ar_rony1](https://codeforces.com/contest/1185/submission/203876421)  
+  
   </p>
   </details>
   
