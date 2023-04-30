@@ -43,6 +43,8 @@
  [Problem-02 : ](https://cses.fi/problemset/task/1647/) [Solution by ar_rony1](https://cses.fi/paste/486e757d5d10a3dc4f6874/)
   
  [Problem-03 : ](https://codeforces.com/contest/1709/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1709/submission/202788538)
+  
+ [Problem-04 : ](https://codeforces.com/contest/1257/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1257/submission/204004340)
 
 
   </p>
