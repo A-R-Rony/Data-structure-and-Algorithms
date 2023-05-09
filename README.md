@@ -124,9 +124,7 @@
   
   </p>
   </details>
-  
-   </p>
-  </details>
+
   
   <details><summary>Bitmask Dp practice problems</summary>
 <p>
