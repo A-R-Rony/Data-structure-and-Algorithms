@@ -3,15 +3,15 @@
 
 >## Data Structure
 
-<details ><summary>DSU</summary>
+<details markdown = "1"><summary>DSU</summary>
  
- <details ><summary>Dsu Basic Code</summary>
+ <details markdown = "1"><summary>Dsu Basic Code</summary>
  
   [Basic DSU Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic.cpp)
 
 </details>
 
-  <details ><summary>Dsu Practice Problems</summary>
+  <details markdown = "1"><summary>Dsu Practice Problems</summary>
 
 
  [Problem-01 : ](https://codeforces.com/contest/25/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/25/submission/172538064)
@@ -24,17 +24,17 @@
 
 </details>
 
-<details><summary>Segment Tree</summary>
+<details markdown = "1"><summary>Segment Tree</summary>
   
  
- <details><summary>Segment Tree Basic Code</summary>
+ <details markdown = "1"><summary>Segment Tree Basic Code</summary>
 
   [Code](https://ideone.com/G0S2HO)
   
 </details>
 
 
-  <details><summary>Segment Tree Practice Problems</summary>
+  <details markdown = "1"><summary>Segment Tree Practice Problems</summary>
 
 
  [Problem-01 : ](https://codeforces.com/contest/339/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/339/submission/180560278)
@@ -54,8 +54,8 @@
 
 >## Dynamic Programming
 
-<details><summary>Recursion Practice Problems</summary>
-<p>
+<details markdown = "1"><summary>Recursion Practice Problems</summary>
+
 
   [Problem-01 : ](https://codeforces.com/contest/768/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/768/submission/182381983) 
   
@@ -68,13 +68,13 @@
   [Problem-05 : ](https://codeforces.com/contest/1476/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1476/submission/197811092)
 
  
-  </p>
   </details>
   
 
   
-   <details><summary>0/1 Knapsack Practice Problems</summary>
-<p>
+   <details markdown = "1"><summary>0/1 Knapsack Practice Problems</summary>
+
+
 
   [Problem-01 : ](https://codeforces.com/contest/118/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/118/submission/180596781) 
   
@@ -101,11 +101,10 @@
 
 
   
-  </p>
   </details>
   
-  <details><summary>Linear Dp practice problems</summary>
-<p>
+  <details markdown = "1"><summary>Linear Dp practice problems</summary>
+
 
   [Problem-01 : ](https://leetcode.com/problems/decode-ways/) [Solution by ar_rony1](https://leetcode.com/submissions/detail/835211190/)  
   
@@ -113,63 +112,63 @@
   
   [Problem-03 : ](https://codeforces.com/contest/711/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/711/submission/202781445)
  
-  </p>
+ 
   </details>
   
-  <details><summary>Digit Dp practice problems</summary>
-<p>
+  <details markdown = "1"><summary>Digit Dp practice problems</summary>
+
 
   [Problem-01 : ](https://lightoj.com/problem/investigation) [Solution by ar_rony1](https://lightoj.com/submission/2530133)  
   
-  </p>
+ 
   </details>
 
   
-  <details><summary>Bitmask Dp practice problems</summary>
-<p>
+  <details markdown = "1"><summary>Bitmask Dp practice problems</summary>
+
 
   [Problem-01 : ](https://lightoj.com/problem/marriage-ceremonies) [Solution by ar_rony1](https://lightoj.com/submission/2754932)  
   
   [Problem-02 : ](https://codeforces.com/contest/1185/problem/G1) [Solution by ar_rony1](https://codeforces.com/contest/1185/submission/203876421)  
   
-  </p>
+  
   </details>
   
   
   >## Graph
 
-<details><summary>Strongly connected component (KosaRaju's Algo)</summary>
-<p>
-  <details><summary>Strongly connected component Basic Code</summary>
-<p>
+<details markdown = "1"><summary>Strongly connected component (KosaRaju's Algo)</summary>
+
+  <details markdown = "1"><summary>Strongly connected component Basic Code</summary>
+
 
   [Strongly connected component ](https://github.com/A-R-Rony/Graph-theory/blob/main/scc.cpp)
-</p>
+  
 </details>
   
-   <details><summary>Strongly connected component Practice Problems</summary>
-<p>
+   <details markdown = "1"><summary>Strongly connected component Practice Problems</summary>
+
 
   [Problem-01 : ](https://codeforces.com/contest/427/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/427/submission/183632211)  
   
   
-  </p>
+  
   </details>
   
-  </p>
+  
   </details>
   
-<details><summary>BFS</summary>
-<p>
-  <details><summary>BFS Basic Code</summary>
-<p>
+<details markdown = "1"><summary>BFS</summary>
+
+  <details markdown = "1"><summary>BFS Basic Code</summary>
+
 
   [BFS Basic Code](https://github.com/A-R-Rony/Graph-theory/blob/main/BFS.cpp)
-</p>
+
 </details>
   
-   <details><summary>BFS Practice Problems</summary>
-<p>
+   <details markdown = "1"><summary>BFS Practice Problems</summary>
+
 
   [Problem-01 : ](https://codeforces.com/problemset/problem/1133/F1) [Solution by ar_rony1](https://codeforces.com/contest/1133/submission/174969128)  
   
@@ -185,23 +184,23 @@
   
   
  
-  </p>
+  
   </details>
   
-  </p>
+  
   </details>
   
-  <details><summary>DFS</summary>
-<p>
-  <details><summary>DFS Basic Code</summary>
-<p>
+  <details markdown = "1"><summary>DFS</summary>
+
+  <details markdown = "1"><summary>DFS Basic Code</summary>
+
 
   [DFS Basic Code](https://github.com/A-R-Rony/Graph-theory/blob/main/DFS.cpp)
-</p>
+
 </details>
   
-   <details><summary>DFS Practice Problems</summary>
-<p>
+   <details markdown = "1"><summary>DFS Practice Problems</summary>
+
 
  [Problem-01 : ](https://codeforces.com/contest/659/problem/E) [Solution by ar_rony1](https://codeforces.com/contest/659/submission/172912579)
  
@@ -255,15 +254,12 @@
 
  
  
+  </details>
+  
+  </details>
+  
+  <details markdown = "1"><summary>Floyd-Warshall Algorithm Practice Problems</summary>
 
-  </p>
-  </details>
-  
-  </p>
-  </details>
-  
-  <details><summary>Floyd-Warshall Algorithm Practice Problems</summary>
-<p>
 
   [Problem-01 : ](https://codeforces.com/contest/295/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/295/submission/185465390)  
   
@@ -272,14 +268,13 @@
   [Problem-03 : ](https://cses.fi/problemset/task/1672/) [Solution by ar_rony1](https://cses.fi/paste/6fb0d6643665f492593599/)
 
  
-  </p>
   </details>
   
   >## Number Theory
 
   
-   <details><summary>Number Theory Practice Problems</summary>
-<p>
+   <details markdown = "1"><summary>Number Theory Practice Problems</summary>
+
 
  [Problem-01 : ](https://lightoj.com/problem/pairs-forming-lcm) [Solution by ar_rony1](https://ideone.com/qjiQqL)
  
@@ -323,14 +318,13 @@
 
 
 
-  </p>
   </details>
   
    >## Binary Search
 
   
-   <details><summary>Binary Search Practice Problems</summary>
-<p>
+   <details markdown = "1"><summary>Binary Search Practice Problems</summary>
+   
 
  [Problem-01 : ](https://codeforces.com/contest/923/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/923/submission/173387018)
  
@@ -358,37 +352,37 @@
  
  [Problem-13 : ](https://codeforces.com/contest/287/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/287/submission/202337130)
 
-  </p>
+  
   </details>
   
    >## String
 
   
-   <details><summary>LPS or Phi array Practice Problems</summary>
-<p>
+   <details markdown = "1"><summary>LPS or Phi array Practice Problems</summary>
+
 
  [Problem-01 : ](https://codeforces.com/contest/1137/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1137/submission/191294574)
 
-  </p>
+ 
   </details>
   
-  <details><summary>String Hashing</summary>
-<p>
+  <details markdown = "1"><summary>String Hashing</summary>
+
 
  [Problem-01 : ](https://atcoder.jp/contests/abc287/tasks/abc287_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc287/submissions/40401750)
 
-  </p>
+  
   </details>
   
   >## combinatorics
 
 
-  <details><summary>Cominatorics Practice Problems</summary>
-<p>
+  <details markdown = "1"><summary>Cominatorics Practice Problems</summary>
+
 
   [Problem-01 : ](https://codeforces.com/contest/1598/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1598/submission/199722939)  
  
-  </p>
+ 
   </details>
   
   
