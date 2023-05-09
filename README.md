@@ -2,11 +2,13 @@
 
 
 >## Data Structure
-<details><summary>DSU</summary>
+
+<details markdown="1"><summary>DSU</summary>
+  
   <p>
  <details><summary>Dsu Basic Code</summary>
 <p>
-  
+    
   [Basic DSU Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic.cpp)
 </p>
 </details>
