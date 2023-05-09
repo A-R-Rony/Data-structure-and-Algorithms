@@ -1,17 +1,15 @@
 # Data-structure-and-Algorithms
 
-[test](https://youtube.com/@palindrome4080)
 >## Data Structure
 <details><summary>DSU</summary>
   <p>
  <details><summary>Dsu Basic Code</summary>
 <p>
-
+  
   [Basic DSU Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic.cpp)
 </p>
 </details>
 
-  
   <details><summary>Dsu Practice Problems</summary>
 <p>
 
