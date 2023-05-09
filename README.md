@@ -4,27 +4,24 @@
 >## Data Structure
 
 <details markdown="1"><summary>DSU</summary>
-  
-  <p>
+ 
  <details markdown="1"><summary>Dsu Basic Code</summary>
-<p>
-    
+ 
   [Basic DSU Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic.cpp)
-</p>
+
 </details>
 
   <details markdown="1"><summary>Dsu Practice Problems</summary>
-<p>
+
 
  [Problem-01 : ](https://codeforces.com/contest/25/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/25/submission/172538064)
 
  [Problem-02 : ](https://www.spoj.com/problems/FRNDCIRC/) [Solution by ar_rony1](https://ideone.com/lX3fRf)
  
  [Problem-03 : ](https://codeforces.com/contest/1609/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1609/submission/179195697)
-  </p>
+ 
   </details>
 
-</p>
 </details>
 
 <details><summary>Segment Tree</summary>
