@@ -3,15 +3,15 @@
 
 >## Data Structure
 
-<details markdown="1"><summary>DSU</summary>
+<details ><summary>DSU</summary>
  
- <details markdown="1"><summary>Dsu Basic Code</summary>
+ <details ><summary>Dsu Basic Code</summary>
  
   [Basic DSU Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic.cpp)
 
 </details>
 
-  <details markdown="1"><summary>Dsu Practice Problems</summary>
+  <details ><summary>Dsu Practice Problems</summary>
 
 
  [Problem-01 : ](https://codeforces.com/contest/25/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/25/submission/172538064)
@@ -25,17 +25,17 @@
 </details>
 
 <details><summary>Segment Tree</summary>
-  <p>
+  
+ 
  <details><summary>Segment Tree Basic Code</summary>
-<p>
 
   [Code](https://ideone.com/G0S2HO)
-</p>
+  
 </details>
 
-  
+
   <details><summary>Segment Tree Practice Problems</summary>
-<p>
+
 
  [Problem-01 : ](https://codeforces.com/contest/339/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/339/submission/180560278)
   
@@ -45,11 +45,10 @@
   
  [Problem-04 : ](https://codeforces.com/contest/1257/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1257/submission/204004340)
 
-
-  </p>
+   
   </details>
 
-</p>
+
 </details>
  
 
