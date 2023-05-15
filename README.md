@@ -52,6 +52,13 @@
 
 
 </details>
+
+ <details markdown = "1"><summary>Trie Practice Problems</summary>
+
+
+ [Problem-01 : ](https://codeforces.com/contest/842/problem/D) [Solution by ar_rony1]()
+ 
+  </details>
  
 
 >## Dynamic Programming
