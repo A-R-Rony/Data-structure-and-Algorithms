@@ -48,6 +48,8 @@
   [Problem-05 : ](https://codeforces.com/contest/635/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/635/submission/205513843)
   
    [Problem-06 : ](https://www.spoj.com/problems/KQUERY/) [Solution by ar_rony1](https://ideone.com/oCtO8f)
+   
+   [Problem-07 : ](https://cses.fi/problemset/task/1650/) [Solution by ar_rony1](https://cses.fi/paste/6eaed65683ac330d5d4a88/)
 
    
   </details>
