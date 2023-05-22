@@ -264,6 +264,9 @@
  [Problem-25 : ](https://atcoder.jp/contests/abc284/tasks/abc284_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc284/submissions/40536021)
  
   [Problem-26 : ](https://codeforces.com/contest/842/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/842/submission/205833102)
+  
+ 
+  [Problem-27 : ](https://codeforces.com/contest/1702/problem/G1) [Solution by ar_rony1](https://codeforces.com/contest/1702/submission/206864656)
 
  
  
