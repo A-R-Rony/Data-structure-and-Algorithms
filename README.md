@@ -3,6 +3,12 @@
 
 >## Data Structure
 
+<details markdown = "1"><summary>LCA Practice Problems</summary>
+ 
+  [Problem-01 (LCA Basic Code: ](https://www.spoj.com/problems/LCASQ/) [Solution by ar_rony1](https://ideone.com/zEd3aT)
+
+</details>
+
 <details markdown = "1"><summary>Binary Lifting Practice Problems</summary>
  
   [Problem-01 : ](https://cses.fi/problemset/task/1687/) [Solution by ar_rony1](https://cses.fi/paste/9453356b4844de3d5d6e7a/)
