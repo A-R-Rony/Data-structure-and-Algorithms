@@ -3,6 +3,12 @@
 
 >## Data Structure
 
+<details markdown = "1"><summary>Binary Lifting Practice Problems</summary>
+ 
+  [Problem-01 : ](https://cses.fi/problemset/task/1687/) [Solution by ar_rony1](https://cses.fi/paste/9453356b4844de3d5d6e7a/)
+
+</details>
+
 <details markdown = "1"><summary>DSU</summary>
  
  <details markdown = "1"><summary>Dsu Basic Code</summary>
