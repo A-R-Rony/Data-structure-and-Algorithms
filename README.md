@@ -284,6 +284,8 @@
   
  
   [Problem-28 : ](https://codeforces.com/contest/1328/problem/E) [Solution by ar_rony1](https://codeforces.com/contest/1328/submission/206998971)
+  
+   [Problem-29 : ](https://codeforces.com/contest/161/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/161/submission/207321610)
 
  
  
