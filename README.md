@@ -122,6 +122,8 @@
   [Problem-10 : ](https://atcoder.jp/contests/abc281/tasks/abc281_d) [Solution by ar_rony1](https://atcoder.jp/contests/abc281/submissions/40748953) 
   
   [Problem-11 : ](https://codeforces.com/contest/1829/problem/H) [(Solution - 1 by ar_rony1)](https://codeforces.com/contest/1829/submission/204911564) , [(Solution - 2 by ar_rony1)](https://codeforces.com/contest/1829/submission/204848254) 
+  
+  [Problem-12 : ](https://codeforces.com/contest/1509/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1509/submission/207415467)
 
 
 
