@@ -124,6 +124,8 @@
   [Problem-11 : ](https://codeforces.com/contest/1829/problem/H) [(Solution - 1 by ar_rony1)](https://codeforces.com/contest/1829/submission/204911564) , [(Solution - 2 by ar_rony1)](https://codeforces.com/contest/1829/submission/204848254) 
   
   [Problem-12 : ](https://codeforces.com/contest/1509/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1509/submission/207415467)
+  
+  [Problem-13 : ](https://codeforces.com/contest/1398/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1398/submission/207422695)
 
 
 
