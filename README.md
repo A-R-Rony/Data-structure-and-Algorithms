@@ -66,6 +66,9 @@
    [Problem-08 : ](https://lightoj.com/problem/strongest-community) [Solution by ar_rony1](https://ideone.com/FJY2OE)
    
    [Problem-09 : ](https://lightoj.com/problem/binary-simulation) [Solution by ar_rony1](https://ideone.com/7OnwOi)
+   
+   [Problem-10 : ](https://lightoj.com/problem/histogram) [Solution by ar_rony1](https://ideone.com/Vz3VZe)
+
 
 
    
