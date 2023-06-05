@@ -420,6 +420,8 @@
 
 
  [Problem-01 : ](https://atcoder.jp/contests/abc287/tasks/abc287_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc287/submissions/40401750)
+ 
+[Problem-02 : (template)](https://codeforces.com/contest/271/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/271/submission/208561434)
 
   
   </details>
