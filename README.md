@@ -64,6 +64,9 @@
    [Problem-07 : ](https://cses.fi/problemset/task/1650/) [Solution by ar_rony1](https://cses.fi/paste/6eaed65683ac330d5d4a88/)
    
    [Problem-08 : ](https://lightoj.com/problem/strongest-community) [Solution by ar_rony1](https://ideone.com/FJY2OE)
+   
+   [Problem-09 : ](https://lightoj.com/problem/binary-simulation) [Solution by ar_rony1](https://ideone.com/7OnwOi)
+
 
    
   </details>
