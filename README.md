@@ -416,9 +416,10 @@
    >## String
 
   
-   <details markdown = "1"><summary>LPS or Phi array Practice Problems</summary>
+   <details markdown = "1"><summary>KMP and LPS or Phi array Practice Problems</summary>
 
-
+ [Classical KMP & LPS : ]() [Code  ](https://ideone.com/8DBWzn)
+ 
  [Problem-01 : ](https://codeforces.com/contest/1137/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1137/submission/191294574)
 
  
