@@ -423,6 +423,8 @@
  [Classical KMP & LPS : ]() [Code  ](https://ideone.com/8DBWzn)
  
  [Problem-01 : ](https://codeforces.com/contest/1137/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1137/submission/191294574)
+ 
+ [Problem-02 : ](https://codeforces.com/contest/1326/problem/D2) [Solution by ar_rony1](https://codeforces.com/contest/1326/submission/209167363)
 
  
   </details>
