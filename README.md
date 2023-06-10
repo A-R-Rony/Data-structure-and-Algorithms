@@ -310,6 +310,7 @@
    
    [Problem-30 : ](https://codeforces.com/contest/1388/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1388/submission/208014884)
 
+  [Problem-31 : ](https://codeforces.com/contest/1592/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1592/submission/209178266)
  
  
   </details>
