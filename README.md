@@ -70,6 +70,8 @@
    [Problem-10 : ](https://lightoj.com/problem/histogram) [Solution by ar_rony1](https://ideone.com/Vz3VZe)
    
    [Problem-11 : ](https://codeforces.com/contest/459/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/459/submission/209100102)
+   
+   [Problem-12 : ](https://lightoj.com/problem/all-possible-inc-subseq) [Solution by ar_rony1](https://ideone.com/H0x3qI)
 
 
 
