@@ -74,6 +74,8 @@
    [Problem-12 : ](https://lightoj.com/problem/all-possible-inc-subseq) [Solution by ar_rony1](https://ideone.com/H0x3qI)
    
    [Problem-13 : ](https://lightoj.com/problem/diablo) [Solution by ar_rony1](https://ideone.com/bXhKn9)
+  
+   [Problem-14 : ](https://lightoj.com/problem/points-in-segments-ii) [Solution by ar_rony1](https://ideone.com/X82yCw)
 
 
 
