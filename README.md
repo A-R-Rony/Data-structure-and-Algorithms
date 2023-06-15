@@ -78,6 +78,9 @@
    [Problem-14 : ](https://lightoj.com/problem/points-in-segments-ii) [Solution by ar_rony1](https://ideone.com/X82yCw)
    
    [Problem-15 : ](https://www.spoj.com/problems/GSS3/) [Solution by ar_rony1](https://ideone.com/iN15Er)
+   
+   [Problem-16 : ](https://codeforces.com/contest/474/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/474/submission/209743998)
+
 
 
 
