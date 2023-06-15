@@ -76,6 +76,8 @@
    [Problem-13 : ](https://lightoj.com/problem/diablo) [Solution by ar_rony1](https://ideone.com/bXhKn9)
   
    [Problem-14 : ](https://lightoj.com/problem/points-in-segments-ii) [Solution by ar_rony1](https://ideone.com/X82yCw)
+   
+   [Problem-15 : ](https://www.spoj.com/problems/GSS3/) [Solution by ar_rony1](https://ideone.com/iN15Er)
 
 
 
