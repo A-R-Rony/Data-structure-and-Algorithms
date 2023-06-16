@@ -80,6 +80,10 @@
    [Problem-15 : ](https://www.spoj.com/problems/GSS3/) [Solution by ar_rony1](https://ideone.com/iN15Er)
    
    [Problem-16 : ](https://codeforces.com/contest/474/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/474/submission/209743998)
+   
+  [Problem-17 : ](https://codeforces.com/contest/920/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/920/submission/209835588)
+      
+   [Problem-18 : ](https://codeforces.com/contest/52/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/52/submission/209787135)
 
 
 
