@@ -87,7 +87,7 @@
 
    [Problem-19 : ](https://codeforces.com/contest/1548/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1548/submission/210013271)
 
-   [Problem-20 : ](https://codeforces.com/contest/242/problem/E) [Solution by ar_rony1](https://codeforces.com/contest/242/submission/210667764)
+   [Problem-20 (XOR segment tree): ](https://codeforces.com/contest/242/problem/E) [Solution by ar_rony1](https://codeforces.com/contest/242/submission/210667764)
 
 
 
