@@ -103,7 +103,9 @@
 
 
  [Problem-01 : ](https://codeforces.com/contest/842/problem/D) [Solution by ar_rony1]()
- 
+
+[Problem-02 : ](https://codeforces.com/contest/706/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/706/submission/210759790)
+
   </details>
  
 
