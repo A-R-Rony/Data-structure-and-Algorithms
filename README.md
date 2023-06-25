@@ -479,6 +479,8 @@
   [Problem-01 : ](https://codeforces.com/contest/1598/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1598/submission/199722939)  
   
   [Problem-02 : ](https://www.hackerrank.com/contests/final-selection-contest/challenges/alice-in-borderland) [Solution by ar_rony1](https://ideone.com/NHY8Zj)  
+
+ [Problem-03 : ](https://codeforces.com/contest/300/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/300/submission/211004122)  
  
  
   </details>
