@@ -93,6 +93,9 @@
 
   [Problem-22 : ](https://cses.fi/problemset/task/1749/) [Solution by ar_rony1](https://cses.fi/paste/d860a70f95f193de60f051/)
 
+  [Problem-23 : ](https://cses.fi/problemset/task/2166) [Solution by ar_rony1](https://cses.fi/paste/334b643029ccb4c760f0d2/)
+
+
 
 
 
