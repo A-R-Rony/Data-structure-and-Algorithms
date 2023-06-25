@@ -89,6 +89,8 @@
 
    [Problem-20 (XOR segment tree): ](https://codeforces.com/contest/242/problem/E) [Solution by ar_rony1](https://codeforces.com/contest/242/submission/210667764)
 
+   [Problem-21 : ](https://cses.fi/problemset/task/1143/) [Solution by ar_rony1](https://cses.fi/paste/097c6f6f4f65b05660ed3e/)
+
 
 
 
