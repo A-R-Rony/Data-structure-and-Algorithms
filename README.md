@@ -97,6 +97,9 @@
 
    [Problem-24 : ](https://cses.fi/problemset/task/2206/) [Solution by ar_rony1](https://cses.fi/paste/3ed2cb27fa8443df60f33b/)
 
+   [Problem-25 : ](https://codeforces.com/contest/1038/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1038/submission/211271352)
+
+
 
 
 
