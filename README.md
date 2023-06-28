@@ -280,6 +280,14 @@
   
   
   </details>
+
+  <details markdown = "1"><summary>DP ON TREE Practice Problems</summary>
+
+
+  [Problem-01 : ](https://cses.fi/problemset/task/1130/) [Solution by ar_rony1](https://cses.fi/paste/5063358e3ad179a7614a16/)  
+  
+  
+  </details>
   
   <details markdown = "1"><summary>DFS</summary>
 
