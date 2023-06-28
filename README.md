@@ -285,6 +285,12 @@
 
 
   [Problem-01 : ](https://cses.fi/problemset/task/1130/) [Solution by ar_rony1](https://cses.fi/paste/5063358e3ad179a7614a16/)  
+
+  [Problem-02 : ](https://cses.fi/problemset/task/1133/) [Solution by ar_rony1](https://cses.fi/paste/53eff2f0f436fb2861505d/)  
+
+  [Problem-03 : ](https://cses.fi/problemset/task/1132) [Solution by ar_rony1](https://cses.fi/paste/10b381d157426b8e614e49/)  
+
+
   
   
   </details>
