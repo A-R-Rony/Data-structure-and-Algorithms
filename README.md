@@ -290,6 +290,20 @@
 
   [Problem-03 : ](https://cses.fi/problemset/task/1132) [Solution by ar_rony1](https://cses.fi/paste/10b381d157426b8e614e49/)  
 
+  [Company Queries I](https://cses.fi/problemset/task/1687) - [Solution by ar_rony1](https://cses.fi/paste/9453356b4844de3d5d6e7a/)
+
+[Company Queries II](https://cses.fi/problemset/task/1688) - [Solution by ar_rony1](https://cses.fi/paste/08a29633ef085fdd618be0/)
+
+[Distance Queries](https://cses.fi/problemset/task/1135) - [Solution by ar_rony1](https://cses.fi/paste/07041f0d5acf0e43618c40/)
+
+[Counting Paths](https://cses.fi/problemset/task/1136) - [Solution by ar_rony1](https://cses.fi/paste/f16d68382a7b97796196c5/)
+
+[Subtree Queries](https://cses.fi/problemset/task/1137) - [Solution by ar_rony1](https://cses.fi/paste/237707c8fc261ffc61a959/)
+
+[Path Queries](https://cses.fi/problemset/task/1138) - [Solution by ar_rony1](https://cses.fi/paste/dbb8fe58a3406bf261a9c9/)
+
+[Distinct Colors](https://cses.fi/problemset/task/1139) - [Solution by ar_rony1](https://cses.fi/paste/a0d16dafacc8037a61ad2c/)
+
 
   
   
