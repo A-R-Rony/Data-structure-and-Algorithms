@@ -452,6 +452,8 @@
   
   [Problem-21 : ](https://codeforces.com/contest/842/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/842/submission/205833102)
 
+ [Problem-22 : ](https://codeforces.com/contest/1295/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1295/submission/211794656)
+
 
 
   </details>
