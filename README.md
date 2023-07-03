@@ -290,7 +290,9 @@
 
   [Problem-03 : ](https://cses.fi/problemset/task/1132) [Solution by ar_rony1](https://cses.fi/paste/10b381d157426b8e614e49/)  
 
-  [Company Queries I](https://cses.fi/problemset/task/1687) - [Solution by ar_rony1](https://cses.fi/paste/9453356b4844de3d5d6e7a/)
+  [Problem-04 : ](https://codeforces.com/contest/1324/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/1324/submission/211896294)  
+
+[Company Queries I](https://cses.fi/problemset/task/1687) - [Solution by ar_rony1](https://cses.fi/paste/9453356b4844de3d5d6e7a/)
 
 [Company Queries II](https://cses.fi/problemset/task/1688) - [Solution by ar_rony1](https://cses.fi/paste/08a29633ef085fdd618be0/)
 
