@@ -272,13 +272,15 @@
   [Problem-05 : ](https://codeforces.com/contest/689/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/689/submission/185154489)
   
    [Problem-06 : ](https://codeforces.com/contest/1176/problem/E) [Solution by ar_rony1](https://codeforces.com/contest/1176/submission/187680527)
+
+  [Problem-07 : ](https://codeforces.com/contest/242/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/242/submission/213050176)
   
   
  
   
   </details>
   
-  
+       
   </details>
 
   <details markdown = "1"><summary>DP ON TREE Practice Problems</summary>
