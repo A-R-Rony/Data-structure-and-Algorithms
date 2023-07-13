@@ -277,6 +277,9 @@
    [Problem-06 : ](https://codeforces.com/contest/1176/problem/E) [Solution by ar_rony1](https://codeforces.com/contest/1176/submission/187680527)
 
   [Problem-07 : ](https://codeforces.com/contest/242/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/242/submission/213050176)
+
+  [Problem-08 : ](https://codeforces.com/contest/1283/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1283/submission/213604064)
+
   
   
  
