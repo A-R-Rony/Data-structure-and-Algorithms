@@ -99,6 +99,9 @@
 
    [Problem-25 : ](https://codeforces.com/contest/1038/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1038/submission/211271352)
 
+  [Problem-26 : ](https://codeforces.com/contest/1535/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1535/submission/213599213)
+
+
 
 
 
