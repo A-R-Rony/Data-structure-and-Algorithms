@@ -402,6 +402,9 @@
 
   [Problem-33 : ](https://codeforces.com/contest/1338/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1338/submission/212072169)
 
+ [Problem-34 : ](https://codeforces.com/contest/1244/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1244/submission/214393196)
+
+
  
  
   </details>
