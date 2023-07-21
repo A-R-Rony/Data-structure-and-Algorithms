@@ -188,6 +188,9 @@
 
  [Problem-19 : ](https://codeforces.com/contest/1286/problem/A) [Solution by ar_rony1](https://codeforces.com/contest/1286/submission/211168968)
 
+ [Problem-20 : ](https://codeforces.com/contest/1096/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1096/submission/214702770)
+
+
 
 
 
