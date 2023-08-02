@@ -536,6 +536,7 @@
  
 [Problem-02 : (template)](https://codeforces.com/contest/271/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/271/submission/208561434)
 
+[Problem-03 :](https://atcoder.jp/contests/abc141/tasks/abc141_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc141/submissions/44191488)
   
   </details>
   
