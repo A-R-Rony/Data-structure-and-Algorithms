@@ -190,6 +190,9 @@
 
  [Problem-20 : ](https://codeforces.com/contest/1096/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1096/submission/214702770)
 
+  [Problem-21 : ](https://codeforces.com/contest/1051/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1051/submission/216789407)
+
+
 
 
 
