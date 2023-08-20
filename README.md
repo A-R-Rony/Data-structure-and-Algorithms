@@ -410,6 +410,9 @@
 
  [Problem-34 : ](https://codeforces.com/contest/1244/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1244/submission/214393196)
 
+  [Problem-35 : ](https://codeforces.com/contest/1027/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1027/submission/219644047)
+
+
 
  
  
