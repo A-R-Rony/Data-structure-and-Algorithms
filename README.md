@@ -7,6 +7,9 @@
  
   [Problem-01 (LCA Basic Code: ](https://www.spoj.com/problems/LCASQ/) [Solution by ar_rony1](https://ideone.com/zEd3aT)
 
+  [Problem-02 : ](https://codeforces.com/contest/813/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/813/submission/219704960)
+
+
 </details>
 
 <details markdown = "1"><summary>Binary Lifting Practice Problems</summary>
