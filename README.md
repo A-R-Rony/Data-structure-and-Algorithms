@@ -260,6 +260,13 @@
   
   
   </details>
+
+  <details markdown = "1"><summary>0-1 BFS practice Problems</summary>
+ 
+  [Problem-01 (0-1 BFS Basic Code: ](https://codeforces.com/contest/1063/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/1063/submission/221889234)
+
+</details>
+
   
 <details markdown = "1"><summary>BFS</summary>
 
