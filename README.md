@@ -195,6 +195,9 @@
 
   [Problem-21 : ](https://codeforces.com/contest/1051/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1051/submission/216789407)
 
+  [Problem-22 : ](https://codeforces.com/contest/577/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/577/submission/222853553)
+
+
 
 
 
