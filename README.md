@@ -197,6 +197,7 @@
 
   [Problem-22 : ](https://codeforces.com/contest/577/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/577/submission/222853553)
 
+  [Problem-23 : ](https://codeforces.com/contest/607/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/607/submission/222881978)
 
 
 
