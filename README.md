@@ -224,6 +224,9 @@
 
 
   [Problem-01 : ](https://lightoj.com/problem/investigation) [Solution by ar_rony1](https://lightoj.com/submission/2530133)  
+
+   [Problem-02 : ](https://codeforces.com/contest/1036/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1036/submission/223048706)  
+
   
  
   </details>
