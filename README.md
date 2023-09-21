@@ -122,7 +122,7 @@
  <details markdown = "1"><summary>Trie Practice Problems</summary>
 
 
- [Problem-01 : ](https://codeforces.com/contest/842/problem/D) [Solution by ar_rony1]()
+ [Problem-01 : ](https://codeforces.com/contest/858/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/858/submission/224252995)
 
 [Problem-02 : ](https://codeforces.com/contest/706/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/706/submission/210759790)
 
