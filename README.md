@@ -126,6 +126,8 @@
 
 [Problem-02 : ](https://codeforces.com/contest/706/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/706/submission/210759790)
 
+[Problem-03 : ](https://toph.co/p/the-punishment) [Solution by ar_rony1](https://toph.co/s/1182337)
+
   </details>
  
 
