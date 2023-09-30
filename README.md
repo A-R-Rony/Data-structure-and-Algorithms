@@ -206,6 +206,9 @@
 
   [Problem-23 : ](https://codeforces.com/contest/607/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/607/submission/222881978)
 
+  [Problem-24 : ](https://codeforces.com/contest/1155/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1155/submission/225864653)
+
+
 
 
 
