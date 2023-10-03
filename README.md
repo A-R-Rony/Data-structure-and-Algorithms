@@ -132,6 +132,9 @@
 
 [Problem-04 : ](https://toph.co/p/maxxor) [Solution by ar_rony1](https://toph.co/s/1187695)
 
+[Problem-05 : ](https://toph.co/p/undo-history) [Solution by ar_rony1](https://ideone.com/jodBxF)
+
+
 
   </details>
  
