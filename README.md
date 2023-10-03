@@ -134,6 +134,9 @@
 
 [Problem-05 : ](https://toph.co/p/undo-history) [Solution by ar_rony1](https://ideone.com/jodBxF)
 
+[Problem-06 : ](https://toph.co/p/yet-another-xor-problem) [Solution by ar_rony1](https://ideone.com/44UYkM)
+
+
 
 
   </details>
