@@ -214,6 +214,9 @@
 
   [Problem-24 : ](https://codeforces.com/contest/1155/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1155/submission/225864653)
 
+  [Problem-25(one time memoization) : ](https://toph.co/p/unique-relief) [Solution by ar_rony1](https://ideone.com/UHgled)
+
+
 
 
 
