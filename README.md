@@ -258,7 +258,10 @@
   
   [Problem-02 : ](https://codeforces.com/contest/1185/problem/G1) [Solution by ar_rony1](https://codeforces.com/contest/1185/submission/203876421)  
 
-   [Problem-02 : ](https://codeforces.com/contest/580/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/580/submission/210829528)  
+   [Problem-03 : ](https://codeforces.com/contest/580/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/580/submission/210829528) 
+
+   [Problem-04 : ](https://toph.co/p/gaaner-koli) [Solution by ar_rony1](https://ideone.com/RsKv05)  
+
   
   
   </details>
