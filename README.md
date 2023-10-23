@@ -265,6 +265,9 @@
 
    [Problem-04 : ](https://toph.co/p/gaaner-koli) [Solution by ar_rony1](https://ideone.com/RsKv05)  
 
+   [Problem-05 : ](https://toph.co/p/paying-bills) [Solution by ar_rony1](https://ideone.com/xm5JLD)  
+
+
   
   
   </details>
