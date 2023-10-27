@@ -136,6 +136,9 @@
 
 [Problem-06 : ](https://toph.co/p/yet-another-xor-problem) [Solution by ar_rony1](https://ideone.com/44UYkM)
 
+[Problem-07 : ](https://codeforces.com/contest/455/problem/B) [Solution by ar_rony1](https://codeforces.com/contest/455/submission/229952290)
+
+
 
 
 
