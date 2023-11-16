@@ -252,6 +252,9 @@
 
    [Problem-02 : ](https://codeforces.com/contest/1036/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1036/submission/223048706)  
 
+   [Problem-03 (from L to R) : ](https://codeforces.com/contest/1808/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1808/submission/232947361)  
+
+
   
  
   </details>
