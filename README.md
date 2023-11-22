@@ -537,6 +537,9 @@
 
  [Problem-22 : ](https://codeforces.com/contest/1295/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1295/submission/211794656)
 
+ [Problem-23 (Mod Inverse) : ](https://codeforces.com/contest/1794/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1794/submission/233799251)
+
+
 
 
   </details>
