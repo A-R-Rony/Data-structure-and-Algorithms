@@ -36,6 +36,9 @@
  [Problem-03 : ](https://codeforces.com/contest/1609/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1609/submission/179195697)
 
  [Problem-04 : ](https://codeforces.com/contest/1213/problem/G) [Solution by ar_rony1](https://codeforces.com/contest/1213/submission/224862644)
+
+ [Problem-05 : ](https://codeforces.com/contest/1927/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/1927/submission/248432985)
+
  
   </details>
 
