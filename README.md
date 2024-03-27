@@ -281,6 +281,9 @@
 
    [Problem-05 : ](https://toph.co/p/paying-bills) [Solution by ar_rony1](https://ideone.com/xm5JLD)  
 
+   [Problem-06 : ](https://codeforces.com/contest/454/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/454/submission/253440041)  
+
+
 
   
   
