@@ -288,7 +288,18 @@
   
   
   </details>
+
+
+  <details markdown = "1"><summary>Non-trivial DP Tricks and Techniques</summary>
+
+
+  [Do we really need to visit all the states? : ](https://codeforces.com/blog/entry/47764#:~:text=Do%20we%20really%20need%20to%20visit%20all%20the%20states%3F)  [problem link](https://codeforces.com/contest/505/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/505/submission/253578013)  
+
+
+
   
+ 
+  </details>
   
   >## Graph
 
