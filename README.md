@@ -295,7 +295,7 @@
 
   [Do we really need to visit all the states? : ](https://codeforces.com/blog/entry/47764#:~:text=Do%20we%20really%20need%20to%20visit%20all%20the%20states%3F)  |  [problem link](https://codeforces.com/contest/505/problem/C)  |  [Solution by ar_rony1](https://codeforces.com/contest/505/submission/253578013)  
 
-[Open and Close Interval Trick : ](https://codeforces.com/blog/entry/47764#:~:text=722E%20%2D%20Research%20Rover-,Open%20and%20Close%20Interval%20Trick,-Example%20Problem%20%3A)  |  [problem link](https://codeforces.com/contest/626/problem/F)  |  [Solution by ar_rony1](https://codeforces.com/contest/626/submission/254407453)
+[Open and Close Interval Trick : ](https://codeforces.com/blog/entry/47764#:~:text=722E%20%2D%20Research%20Rover-,Open%20and%20Close%20Interval%20Trick,-Example%20Problem%20%3A)  |  [problem: 1 ](https://codeforces.com/contest/626/problem/F) ,  [Solution](https://codeforces.com/contest/626/submission/254407453) |   [problem: 2 ](https://codeforces.com/contest/466/problem/D) ,  [Solution](https://codeforces.com/contest/466/submission/254692140)
 
   
  
