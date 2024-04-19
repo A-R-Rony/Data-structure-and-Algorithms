@@ -26,3 +26,4 @@ void print(__int128 x) {
 bool cmp(__int128 x, __int128 y) { return x > y; }
 
 // https://lightoj.com/problem/equal
+
