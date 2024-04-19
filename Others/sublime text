@@ -1,8 +1,8 @@
 // [For infinite loop problem in sublime]:
 preferences → key bindings and paste
-```
+
 { "keys": ["ctrl+q"], "command": "cancel_build" }
-```
+
 //Creating a Build System
 Open Sublime Text editor and then go to Tools > Build System > New Build System.
 Paste the following code in the file and save it.
