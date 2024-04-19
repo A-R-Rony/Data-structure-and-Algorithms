@@ -1,0 +1,3 @@
+// [For infinite loop problem in sublime]:
+preferences → key bindings and paste
+{ "keys": ["ctrl+q"], "command": "cancel_build" }
