@@ -1,0 +1,31 @@
+// [For infinite loop problem in sublime]:
+preferences → key bindings and paste
+```
+{ "keys": ["ctrl+q"], "command": "cancel_build" }
+```
+//Creating a Build System
+Open Sublime Text editor and then go to Tools > Build System > New Build System.
+Paste the following code in the file and save it.
+Name the file as “CP.sublime-build“.
+{
+    "cmd": ["g++.exe", "-std=c++17", "${file}",
+            "-o", "${file_base_name}.exe",
+            "&&", "${file_base_name}.exe<inputf.in>outputf.out"],
+    "shell":true,
+    "working_dir":"$file_path",
+    "selector":"source.cpp"
+}
+The above block of code is used for taking input from the file “inputf.in” and prints the output to “outputf.out”.
+
+Setting up the Window Layout
+Create three new files as shown below and make sure all of them are in the same folder.
+
+file.cpp: The file for writing the code.
+inputf.in: The file where we will be giving the input.
+outputf.out: The file where the output will be displayed.
+
+Now, perform the following steps:
+
+Select View > Layout > Columns : 3. This will create three columns in the workspace. Move the three files into three columns.
+Select View > Groups > Max Columns : 2.
+Select the build system we just created from Tools > Build System > CP.
