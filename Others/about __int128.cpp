@@ -1,4 +1,4 @@
-[__int128 for very long number]
+//[__int128 for very long number]
 __int128 read() {
     __int128 x = 0, f = 1;
 
@@ -24,3 +24,5 @@ void print(__int128 x) {
     putchar(x % 10 + '0');
 }
 bool cmp(__int128 x, __int128 y) { return x > y; }
+
+// https://lightoj.com/problem/equal
