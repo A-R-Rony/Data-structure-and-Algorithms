@@ -572,6 +572,12 @@
  
  [Problem-01 : ](https://codeforces.com/gym/104619/problem/E) [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/ada1c6ef742d2e260136321ccfc1e176f37d65d1/Others/about%20__int128/solved%20problem/E.%20Exponentiation(cf).cpp)
 
+ [Problem-02 : ](https://codeforces.com/gym/102644/problem/B) 
+
+ [Problem-03 : ](https://codeforces.com/gym/102644/problem/C)  [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/3c4f46e03fdeb82191a68956311432dde4bdfac2/Number%20Theory/matrix%20expo%20(Fibonacci).cpp)
+
+ 
+
 
  
   </details>
