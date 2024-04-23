@@ -568,7 +568,7 @@
 
    <details markdown = "1"><summary>Matrix Exponentiation Practice Problems</summary>
 
- [Classical Matrix Exponentiation : ]() [Code  ]([https://ideone.com/8DBWzn](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/ada1c6ef742d2e260136321ccfc1e176f37d65d1/Number%20Theory/matrix%20exponentiation.cpp))
+ [Classical Matrix Exponentiation : ]() [Code  ](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/ada1c6ef742d2e260136321ccfc1e176f37d65d1/Number%20Theory/matrix%20exponentiation.cpp)
  
  [Problem-01 : ](https://codeforces.com/gym/104619/problem/E) [Solution by ar_rony1]()
 
