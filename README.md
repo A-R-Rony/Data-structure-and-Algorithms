@@ -584,9 +584,14 @@
 
   
   
-   >## Binary Search
+   >## Binary and Ternary Search 
 
-  
+  <details markdown = "1"><summary>Ternary Search Practice Problems</summary>
+
+   [Problem-01 : ](https://lightoj.com/problem/closest-distance) [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/e690facf57cd1bf0da0edff2361dff5409af1f00/Ternary%20Search%20/Closest%20Distance(LOJ).cpp)
+
+   
+  </details>
    <details markdown = "1"><summary>Binary Search Practice Problems</summary>
    
 
