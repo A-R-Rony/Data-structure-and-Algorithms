@@ -283,6 +283,8 @@
 
    [Problem-06 : ](https://codeforces.com/contest/454/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/454/submission/253440041)  
 
+   [Problem-07 : ](https://toph.co/p/is-it-perfect) [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/4bb3ec28d61ec322d1454b4a50b04145e0d8ffb7/Dynamic%20Programmig/bitmask%20dp%201.cpp)  
+
 
 
   
