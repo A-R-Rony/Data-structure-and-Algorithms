@@ -109,6 +109,9 @@
 
   [Problem-26 : ](https://codeforces.com/contest/1535/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1535/submission/213599213)
 
+  [Problem-27 : ](https://codeforces.com/contest/1359/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/1359/submission/276479325)
+
+
 
 
 
