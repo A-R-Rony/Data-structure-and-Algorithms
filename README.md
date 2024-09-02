@@ -671,6 +671,18 @@
  
  
   </details>
+
+  >## Geometry
+
+
+  <details markdown = "1"><summary>Geometry Practice Problems</summary>
+
+
+  [Problem-01 : ](https://codeforces.com/contest/1354/problem/C2) [Solution by ar_rony1](https://codeforces.com/contest/1354/submission/279287717)  
+    
+ 
+ 
+  </details>
   
   
   
