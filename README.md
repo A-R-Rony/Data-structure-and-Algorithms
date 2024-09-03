@@ -265,6 +265,7 @@
 
    [Problem-03 (from L to R) : ](https://codeforces.com/contest/1808/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/1808/submission/232947361)  
 
+   [Problem-04 (perfect) : ](https://toph.co/p/m-beautiful-numbers) [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/33175a88b0e374c777c0df0e15c0b134dc1cc10f/Dynamic%20Programmig/digit%20dp.cpp)  
 
   
  
