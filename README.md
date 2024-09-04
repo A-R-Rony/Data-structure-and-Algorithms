@@ -18,6 +18,12 @@
 
 </details>
 
+<details markdown = "1"><summary>Sparse Table Practice Problems</summary>
+ 
+  [Problem-01 : ](https://www.spoj.com/problems/RMQSQ/) [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/a029d83c59775a2f3982d849772a463ed86ba1ff/Data%20structure/Sparse%20Table/RMQ%20sparse%20table.cpp)
+
+</details>
+
 <details markdown = "1"><summary>DSU</summary>
  
  <details markdown = "1"><summary>Dsu Basic Code</summary>
