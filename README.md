@@ -295,6 +295,7 @@
 
    [Problem-07 : ](https://toph.co/p/is-it-perfect) [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/4bb3ec28d61ec322d1454b4a50b04145e0d8ffb7/Dynamic%20Programmig/bitmask%20dp%201.cpp)  
 
+   [Problem-08 : ](https://cses.fi/problemset/task/2181/) [Solution by ar_rony1](https://cses.fi/paste/c70e829bc6ddc7d69fdabd/)  
 
 
   
@@ -518,7 +519,7 @@
   
   [Problem-03 : ](https://cses.fi/problemset/task/1672/) [Solution by ar_rony1](https://cses.fi/paste/6fb0d6643665f492593599/)
 
- 
+
   </details>
   
   >## Number Theory
