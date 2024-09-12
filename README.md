@@ -517,7 +517,7 @@
   
   [Problem-02 : ](https://atcoder.jp/contests/abc286/tasks/abc286_e) [Solution by ar_rony1](https://atcoder.jp/contests/abc286/submissions/40446437)
   
-  [Problem-03 : ](https://cses.fi/problemset/task/1672/) [Solution by ar_rony1](https://cses.fi/paste/6fb0d6643665f492593599/)
+  [Problem-03 : ](https://cses.fi/problemset/task/1672/) [Solution by ar_rony1](https://cses.fi/paste/9c3c182bbb844d049ffe32/)
 
 
   </details>
