@@ -650,6 +650,8 @@
 
  [Problem-03 : ](https://codeforces.com/contest/471/problem/D) [Solution by ar_rony1](https://codeforces.com/contest/471/submission/221400575)
 
+ [Problem-04 : ](https://codeforces.com/contest/1200/problem/E) [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/dcde6ff6612db88125e686dd22dfc15039e92ffd/string%20algo/interesting%20lps%20concept.cpp)
+
 
  
   </details>
