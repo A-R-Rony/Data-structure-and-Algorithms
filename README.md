@@ -521,6 +521,12 @@
 
 
   </details>
+
+  <details markdown = "1"><summary>Bellman Ford Practice Problems</summary>
+ 
+  [Problem-01 : ](https://cses.fi/problemset/result/10532303/) [Solution by ar_rony1](https://cses.fi/paste/44b49b77bf65abb2a0b5cf/)
+
+</details>
   
   >## Number Theory
 
