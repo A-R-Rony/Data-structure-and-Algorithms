@@ -526,6 +526,9 @@
  
   [Problem-01 : ](https://cses.fi/problemset/result/10532303/) [Solution by ar_rony1](https://cses.fi/paste/44b49b77bf65abb2a0b5cf/)
 
+  [Problem-02 : ](https://cses.fi/problemset/task/1197/) [Solution by ar_rony1](https://cses.fi/paste/a33cd0864571f656a2056b/)
+
+
 </details>
   
   >## Number Theory
