@@ -328,13 +328,6 @@
 
 <details markdown = "1"><summary>Strongly connected component (KosaRaju's Algo)</summary>
 
-  <details markdown = "1"><summary>Strongly connected component Basic Code</summary>
-
-
-  [Strongly connected component ](https://github.com/A-R-Rony/Graph-theory/blob/main/scc.cpp)
-  
-</details>
-  
    <details markdown = "1"><summary>Strongly connected component Practice Problems</summary>
 
 
@@ -349,13 +342,6 @@
 
   
 <details markdown = "1"><summary>BFS</summary>
-
-  <details markdown = "1"><summary>BFS Basic Code</summary>
-
-
-  [BFS Basic Code](https://github.com/A-R-Rony/Graph-theory/blob/main/BFS.cpp)
-
-</details>
   
    <details markdown = "1"><summary>BFS Practice Problems</summary>
 
@@ -419,13 +405,6 @@
   </details>
   
   <details markdown = "1"><summary>DFS</summary>
-
-  <details markdown = "1"><summary>DFS Basic Code</summary>
-
-
-  [DFS Basic Code](https://github.com/A-R-Rony/Graph-theory/blob/main/DFS.cpp)
-
-</details>
   
    <details markdown = "1"><summary>DFS Practice Problems</summary>
 
@@ -509,7 +488,15 @@
   </details>
   
   </details>
+
+  <details markdown = "1"><summary>Dijkstra Practice Problems</summary>
+
+
+  [Problem-01 (state dijkstra): ](https://cses.fi/problemset/task/1195/) [Solution by ar_rony1](https://cses.fi/paste/47bc737ede77861aa2313f/)  
   
+
+
+  </details>
   <details markdown = "1"><summary>Floyd-Warshall Algorithm Practice Problems</summary>
 
 
