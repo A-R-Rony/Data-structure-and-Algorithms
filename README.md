@@ -493,7 +493,9 @@
 
 
   [Problem-01 (state dijkstra): ](https://cses.fi/problemset/task/1195/) [Solution by ar_rony1](https://cses.fi/paste/47bc737ede77861aa2313f/)  
-  
+
+  [Problem-02 (multiple distance in each node): ](https://cses.fi/problemset/task/1196/) [Solution by ar_rony1](https://cses.fi/paste/a9686a04808e403aa23310/)  
+
 
 
   </details>
