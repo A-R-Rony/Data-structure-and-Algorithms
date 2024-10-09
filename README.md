@@ -329,11 +329,11 @@
 <details markdown = "1"><summary>Strongly connected component (KosaRaju's Algo)</summary>
 
    <details markdown = "1"><summary>Strongly connected component Practice Problems</summary>
-
-
+    
   [Problem-01 : ](https://codeforces.com/contest/427/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/427/submission/183632211)  
   
-  
+  [Problem-02 : ](https://cses.fi/problemset/task/1683/) [Solution by ar_rony1](https://cses.fi/paste/e9d36161a158ed36a481a0/)  
+
   
   </details>
   
