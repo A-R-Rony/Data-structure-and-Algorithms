@@ -320,6 +320,9 @@
 
 
   [Problem-01 : ](https://codeforces.com/contest/1971/problem/H) [Solution by ar_rony1](https://codeforces.com/contest/1971/submission/285337948)
+
+   [Problem-02 : ](https://cses.fi/problemset/task/1684/) [Solution by ar_rony1](https://cses.fi/paste/637895844c3459d2a50a38/)
+
   
   </details>
 
