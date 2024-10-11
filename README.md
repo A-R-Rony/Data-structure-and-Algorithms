@@ -316,6 +316,14 @@
   
   >## Graph
 
+ <details markdown = "1"><summary>2-SAT practice problems</summary>
+
+
+  [Problem-01 : ](https://codeforces.com/contest/1971/problem/H) [Solution by ar_rony1](https://codeforces.com/contest/1971/submission/285337948)
+  
+  </details>
+
+
  <details markdown = "1"><summary>0-1 BFS practice problems</summary>
 
 
