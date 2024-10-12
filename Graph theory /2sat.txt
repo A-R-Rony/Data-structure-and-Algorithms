@@ -1,0 +1,28 @@
+xor: p⊕q=(p∧¬q)∨(¬p∧q) 
+The CNF form of p⊕q=(p∨q)∧(¬p∨¬q)
+xnor: ¬(p⊕q)=(p∧q)∨(¬p∧¬q)
+The CNF form of ¬(p⊕q)= (p∨¬q)∧(q∨¬p)
+
+**Types of Constraints** 
+Keep in mind that:
+
+(x∨y)⟺((¬x⇒y)∧(¬y⇒x))
+1. Forcing a variable to be true
+
+If we want to force x
+ to be true, it is equivalent to adding a clause (x∨x)
+.
+
+2. Exactly one variable must be true (xor)
+
+This is equivalent to (x∨y)∧(¬x∨¬y)
+.
+
+3. At least one variable must be true (or)
+
+This is just a clause (x∨y)
+.
+
+4. Both variables must have the same value (and)
+This is equivalent to (¬x∨y)∧(x∨¬y)
+.
