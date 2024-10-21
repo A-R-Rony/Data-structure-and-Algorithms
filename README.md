@@ -316,6 +316,19 @@
   
   >## Graph
 
+<details markdown = "1"><summary>Bridge practice problems</summary>
+
+
+  [Problem-01 : ](https://codeforces.com/contest/1986/problem/F) [Solution by ar_rony1](https://codeforces.com/contest/1986/submission/287138205)
+
+  [Problem-02 : ](https://www.spoj.com/problems/EC_P/) [Solution by ar_rony1](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/b8cce8d71aeb329c6ee7bdd4e4fab44029fffc13/Graph%20theory%20/Bridge%20finding.cpp)
+
+  [Problem-03 : ](https://codeforces.com/contest/700/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/700/submission/286864881)
+
+  
+
+  </details>
+  
  <details markdown = "1"><summary>2-SAT practice problems</summary>
 
 
