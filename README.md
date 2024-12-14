@@ -536,6 +536,9 @@
   
   [Problem-03 : ](https://cses.fi/problemset/task/1672/) [Solution by ar_rony1](https://cses.fi/paste/9c3c182bbb844d049ffe32/)
 
+  [Problem-04 : ](https://codeforces.com/contest/25/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/25/submission/296450090)
+
+
 
   </details>
 
