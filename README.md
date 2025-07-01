@@ -24,13 +24,6 @@
 
 </details>
 
-<details markdown = "1"><summary>DSU</summary>
- 
- <details markdown = "1"><summary>Dsu Basic Code</summary>
- 
-  [Basic DSU Code](https://github.com/A-R-Rony/Data-structure/blob/main/DSU%20-%20basic.cpp)
-
-</details>
 
   <details markdown = "1"><summary>Dsu Practice Problems</summary>
 
@@ -52,12 +45,12 @@
 
 <details markdown = "1"><summary>Segment Tree</summary>
   
- 
- <details markdown = "1"><summary>Segment Tree Basic Code</summary>
+ [Template- 01: Lazy on Bit](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/f4137172123e62ca6257050a89ae01627e9b3933/segment%20tree/Lazy%20on%20bit.cpp)
 
-  [Code](https://ideone.com/G0S2HO)
-  
-</details>
+ [Templae- 02: Lazy on sum](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/f4137172123e62ca6257050a89ae01627e9b3933/segment%20tree/Lazy%20on%20sum.cpp)
+
+ [Template-03: Lazy Upobir's version](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/f4137172123e62ca6257050a89ae01627e9b3933/segment%20tree/Lazy%20Upobir's%20version.cpp)
+ 
 
 
   <details markdown = "1"><summary>Segment Tree Practice Problems</summary>
@@ -331,7 +324,8 @@
   
  <details markdown = "1"><summary>2-SAT practice problems</summary>
 
-
+   [2-SAT Template: ](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/bbac0dd2140792949103f9ce4b6533b686c2a968/Data%20structure/2-SAT/2-SAT%20Template.cpp)
+  
   [Problem-01 : ](https://codeforces.com/contest/1971/problem/H) [Solution by ar_rony1](https://codeforces.com/contest/1971/submission/285337948)
 
    [Problem-02 : ](https://cses.fi/problemset/task/1684/) [Solution by ar_rony1](https://cses.fi/paste/637895844c3459d2a50a38/)
@@ -353,6 +347,8 @@
 
 <details markdown = "1"><summary>Strongly connected component (KosaRaju's Algo)</summary>
 
+   [Template : ](https://github.com/A-R-Rony/Data-structure-and-Algorithms/blob/bbac0dd2140792949103f9ce4b6533b686c2a968/Graph%20theory%20/kosaraju's%20algo.cpp)
+   
    <details markdown = "1"><summary>Strongly connected component Practice Problems</summary>
     
   [Problem-01 : ](https://codeforces.com/contest/427/problem/C) [Solution by ar_rony1](https://codeforces.com/contest/427/submission/183632211)  
